@@ -14,3 +14,6 @@ You can contribute by creating classes using raw Flutter, or using essential pac
 
 * Haptic Feedback **(Using System Channel)**
 * State management **(Using ValueNotifier)**
+* Navigation **(Using Navigator)**
+* Orientation Device **(Using System Chrome)**
+* Status Bar Overlay Style **(Using System Chrome)**
